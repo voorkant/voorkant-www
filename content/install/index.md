@@ -16,6 +16,8 @@ You will need a very recent Meson version.
 1.0.1 is too old, 1.3.2 works. [FIXME figure out exact version and also put it in `meson.build` as `meson_version` req].
 `pipenv` or other Python virtual env managers should make it easy to get one.
 
+[git clone, mention submodules]
+
 To build for Debian 12, something like this works:
 
 ```
