@@ -1,0 +1,4 @@
+baseURL = 'https://voorkant.org/'
+languageCode = 'en-us'
+title = 'voorkant'
+theme = 'paige'
