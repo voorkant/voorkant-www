@@ -1,0 +1,11 @@
+#paige-breadcrumbs,
+#paige-collections,
+#paige-date,
+#paige-pages,
+#paige-reading-time,
+#paige-sections,
+.paige-date,
+.paige-reading-time,
+.paige-summary {
+    display: none;
+}

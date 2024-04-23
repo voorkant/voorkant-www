@@ -1,4 +1,37 @@
 baseURL = 'https://voorkant.org/'
 languageCode = 'en-us'
 title = 'voorkant'
-theme = 'paige'
+# theme = 'paige'
+
+[[module.imports]]
+path = "github.com/willfaught/paige"
+
+[languages.en]
+weight = 10
+title = "voorkant"
+
+[[languages.en.menu.main]]
+identifier = "Introduction"
+name = "Introduction"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "Installation"
+name = "Installation"
+url = "/install"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "Screenshots"
+name = "Screenshots"
+url = "/screenshots"
+weight = 30
+
+[params.paige]
+site_title = "voorkant"
+site_description = "your non-web Home Assistant front-end"
+
+# [permalinks]
+#   [permalinks.page]
+#     pages = '/:slug/'
