@@ -31,7 +31,3 @@ weight = 30
 [params.paige]
 site_title = "voorkant"
 site_description = "your non-web Home Assistant front-end"
-
-# [permalinks]
-#   [permalinks.page]
-#     pages = '/:slug/'
