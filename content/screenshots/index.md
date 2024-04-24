@@ -1,14 +1,30 @@
 +++
 title = 'Screenshots'
-date = 2024-04-23T19:22:01+02:00
 draft = false
 +++
 
-how to install
+{{< paige/gallery
+    align=""
+    breakpoints=false
+    class=""
+    densities=""
+    fetchpriority=""
+    height=""
+    images=""
+    justify=""
+    linked=""
+    loading=""
+    maxheight=""
+    maxwidth=""
+    process=""
+    style=""
+    type=""
+    width="" >}}
 
-blabla
+{{< paige/image alt="voorkant LVGL showing 3 lights" src="lights.png" title="voorkant LVGL showing 3 lights" >}}
 
+{{< paige/image alt="voorkant LVGL showing a rendered apexcharts-card" src="apexcard.png" title="voorkant LVGL showing a rendered apexcharts-card" >}}
 
-xx
+{{< paige/image alt="voorkant FTXUI" src="ftxui.png" title="voorkant FTXUI" >}}
 
-xqq
+{{< /paige/gallery >}}
