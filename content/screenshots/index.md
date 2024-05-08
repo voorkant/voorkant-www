@@ -3,6 +3,8 @@ title = 'Screenshots'
 draft = false
 +++
 
+Please note that these screenshots may not reflect current development status!
+
 {{< paige/gallery
     align=""
     breakpoints=false
