@@ -68,7 +68,7 @@ Finally, `build/client-cli` has a collection of useful small tools.
 
 ## Compiling for another target
 
-The only target currently supported and tested is Eneco Toon 1 [link to specs, maybe make per-device pages?].
+The only target currently supported and tested is [Eneco Toon 1](/devices/#toon-1).
 
 You will need Docker+QEMU with a working binfmt setup [link?].
 
