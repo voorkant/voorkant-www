@@ -44,7 +44,7 @@ It turns out that Eneco/Quby's stock software on a Toon 1 is unbearably laggy.
 I wondered if the hardware really was that bad, or if the software was just inefficient, so I tried a few things, and soon realised that [it could run Doom](https://fosstodon.org/@habbie/110141084306659319).
 This suggested to me that the existing software was not showing the full potential of the hardware.
 
-Looking around for suitable GUI libraries, I found LVGL.
+Looking around for suitable GUI libraries, I found [LVGL](https://lvgl.io/).
 Porting the LVGL demo showed that this device could be quite responsive with the right software, so I decided to write a native Home Assistant client for the device.
 And so, voorkant was born.
 
