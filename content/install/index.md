@@ -90,8 +90,6 @@ FIXME explain how to skip FTXUI here. client-cli is cheap enough to always build
 
 After a very long time, you will find binaries in `build-armel/`.
 
-[words about how to safely stop the Toon stock GUI and start voorkant]
-
 ## Downloading pre-built binaries
 
 [something something github actions]
