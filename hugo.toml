@@ -28,6 +28,12 @@ name = "Screenshots"
 url = "/screenshots"
 weight = 30
 
+[[languages.en.menu.main]]
+identifier = "Devices"
+name = "Devices"
+url = "/devices"
+weight = 40
+
 [params.paige]
 site_title = "voorkant"
 site_description = "your non-web Home Assistant front-end"
