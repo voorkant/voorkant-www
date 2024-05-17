@@ -85,11 +85,9 @@ $ cd ../..
 Then set up Meson, and do the build:
 
 ```
-$ scripts/build-targets/run armel sh -c 'LDFLAGS="-static -latomic" meson setup build-armel --prefer-static -Dbuildtype=release -Dlvgl-driver=fbdev'
+$ scripts/build-targets/run armel sh -c 'LDFLAGS="-static -latomic" meson setup build-armel --prefer-static -Dbuildtype=release -Dlvgl-driver=fbdev -Dfront-ftxui=disabled'
 $ scripts/build-targets/run armel sh -c 'meson compile -C build-armel'
 ```
-
-FIXME explain how to skip FTXUI here. client-cli is cheap enough to always build.
 
 After a very long time, you will find binaries in `build-armel/`.
 
