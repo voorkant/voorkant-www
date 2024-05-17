@@ -28,6 +28,9 @@ $ meson compile -C build/
 
 FIXME explain our `-D` things, like we use in the armel build below.
 
+voorkant should also build on macOS - see the `build-macos` job in [our GitHub Actions build workflow](https://github.com/voorkant/voorkant-core/blob/main/.github/workflows/main.yml) for hints.
+Turning this into actual documentation would be a welcome PR!
+
 ### Get access to your Home Assistant installation
 
 In the Home Assistant web interface, click your user name (bottom left), this takes you to `/profile`.
