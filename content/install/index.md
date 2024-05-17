@@ -65,7 +65,7 @@ $ . .secrets
 $ build/client-lvgl entity light.*
 ```
 
-(the run syntax of client-lvgl is subject to frequent changes, run `build/client-lvgl help` to find today's syntax.)
+(the run syntax of client-lvgl is subject to occasional changes, run `build/client-lvgl help` to find today's syntax.)
 
 Finally, `build/client-cli` has a collection of useful small tools.
 
