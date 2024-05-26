@@ -40,5 +40,5 @@ This is also non-permanent.
 
 Please see [Installation](/install/) for credential setup.
 
-You may need to use `scp -O` to get your `client-lvgl` binary onto the system.
+You may need to use `scp -O` to get your `voorkant-lvgl` binary onto the system.
 Then, start it, and within a second or two, you should see our touch interface appear.
