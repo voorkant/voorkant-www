@@ -12,7 +12,7 @@ Specifications:
  * SoC: MCIMX27LM0P4A with:
  * CPU: ARM926EJ-S at 400 MHz
  * 128 MB memory
- * 128 MB flash, root file system 100MB, roughly 40MB free after rooting
+ * 128 MB flash, root file system 100MB, 35MB-70MB free after rooting depending on Toon software version (looks like newer versions take more space)
  * Ethernet, WiFi, Z-wave, USB port
  * 800x480 display with touch, advertised as 32 bits per pixel by the framebuffer driver
  * kernel version somewhere around 2.6.36-R10-h28
