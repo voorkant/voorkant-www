@@ -55,19 +55,19 @@ To run the FTXUI terminal frontend:
 
 ```
 $ . .secrets
-$ build/client-ftxui
+$ build/voorkant-ftxui
 ```
 
 To run the LVGL frontend (compiled against SDL by default, which will handle creating a window for it and taking mouse/touch input):
 
 ```
 $ . .secrets
-$ build/client-lvgl entity light.*
+$ build/voorkant-lvgl entity light.*
 ```
 
-(the run syntax of client-lvgl is subject to occasional changes, run `build/client-lvgl help` to find today's syntax.)
+(the run syntax of voorkant-lvgl is subject to occasional changes, run `build/voorkant-lvgl help` to find today's syntax.)
 
-Finally, `build/client-cli` has a collection of useful small tools.
+Finally, `build/voorkant-cli` has a collection of useful small tools.
 
 ## Compiling for another target
 
