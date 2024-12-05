@@ -68,7 +68,7 @@ Finally, `build/client-cli` has a collection of useful small tools.
 
 The only target currently supported and tested is Eneco Toon 1 [link to specs, maybe make per-device pages?].
 
-You will need Docker+QEMU with a working binfmt setup [link?].
+You will need Docker+QEMU with a working binfmt setup. On Debian stable this is a `apt install qemu-user-static`.
 
 First, build a Debian armel image to do our compilation in:
 
