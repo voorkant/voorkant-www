@@ -25,7 +25,7 @@ Please note that these screenshots may not reflect current development status!
 
 {{< paige/image alt="voorkant LVGL showing various entities, with icons" src="with-icons.png" title="voorkant LVGL showing various entities, with icons)" >}}
 
-{{< paige/image alt="voorkant LVGL showing 3 lights (old RGB interface)" src="lights.png" title="voorkant LVGL showing 3 lights (old RGB interface)" >}}
+{{< paige/image alt="voorkant LVGL showing 3 lights" src="lights.png" title="voorkant LVGL showing 3 lights" >}}
 
 {{< paige/image alt="voorkant LVGL showing a rendered apexcharts-card" src="apexcard.png" title="voorkant LVGL showing a rendered apexcharts-card" >}}
 
